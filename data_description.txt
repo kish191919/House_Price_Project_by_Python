@@ -503,7 +503,7 @@ YrSold: Year Sold (YYYY)
 SaleType: Type of sale
 		
        WD 	Warranty Deed - Conventional
-       CWD	Warranty Deed - Cash
+       CWD	Warranty Deed - Cashㅅ
        VWD	Warranty Deed - VA Loan
        New	Home just constructed and sold
        COD	Court Officer Deed/Estate
