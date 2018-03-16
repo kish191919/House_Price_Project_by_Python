@@ -28,7 +28,9 @@
 ### 2.3 평기기준 
    > - Root-Mean-Squared-Error (RMSE)  
 
-$RMSE = \sqrt{\frac{1}{n}\Sigma_{i=1}^{n}{\Big(\frac{d_i -f_i}{\sigma_i}\Big)^2}}$
+\[
+RMSE = \sqrt{\frac{1}{n}\Sigma_{i=1}^{n}{\Big(\frac{d_i -f_i}{\sigma_i}\Big)^2}}
+\]
 
 ### 2.4 경연관련:
    > - 시작 : 8/30/2016
@@ -40,7 +42,7 @@ $RMSE = \sqrt{\frac{1}{n}\Sigma_{i=1}^{n}{\Big(\frac{d_i -f_i}{\sigma_i}\Big)^2}
    > - 일일 제출 제한 횟수 : 5 회 / 일
   
    > - **최종점수 : 0.12384   캐글 등수 : 1042 / 4548 (상위 22.9%)**
-   
-![Table1](/Images/table1.png )
-![Table2](/Images/table2.png )
+  
+![Table1](/Image/table1.png )
+![Table2](/Image/table2.png )
 
