@@ -28,9 +28,9 @@
 ### 2.3 평기기준 
    > - Root-Mean-Squared-Error (RMSE)  
 
-\[
-RMSE = \sqrt{\frac{1}{n}\Sigma_{i=1}^{n}{\Big(\frac{d_i -f_i}{\sigma_i}\Big)^2}}
-\]
+\
+RMSE = \sqrt{\frac{1}{n}\Sigma{i=1}^{n}{\Big(\frac{di -fi}{\sigmai}\Big)^2}}
+\
 
 ### 2.4 경연관련:
    > - 시작 : 8/30/2016
