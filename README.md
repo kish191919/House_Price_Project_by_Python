@@ -42,5 +42,3 @@ $$
    > - 일일 제출 제한 횟수 : 5 회 / 일
   
    > - **최종점수 : 0.12384   캐글 등수 : 1042 / 4548 (상위 22.9%)**
-   
-![Table](http://13.125.22.6/home/ubuntu/Project/1_House_Price_Project_X/table.png "Table")
