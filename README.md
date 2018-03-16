@@ -41,4 +41,6 @@ $RMSE = \sqrt{\frac{1}{n}\Sigma_{i=1}^{n}{\Big(\frac{d_i -f_i}{\sigma_i}\Big)^2}
   
    > - **최종점수 : 0.12384   캐글 등수 : 1042 / 4548 (상위 22.9%)**
    
-![Table](/Images/table.png )
+![Table1](/Images/table1.png )
+![Table2](/Images/table2.png )
+
