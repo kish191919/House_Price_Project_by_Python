@@ -27,7 +27,7 @@ Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarith
 - Entry Deadline: None
 - End Date: 3/1/2017 11:59 PM UTC
 
-### Result
+### Prediction
 - Model : Ordinary Least Squares regression
 - Kaggle Score : 0.12384
 - Kaggle rank : 1042 / 4548 (22.9%) [2018.3.13]
