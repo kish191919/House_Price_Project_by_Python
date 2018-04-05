@@ -1,45 +1,33 @@
-# 프로젝트 : House Prices: Advanced Regression Techniques
----
+# Team Project : House Prices: Advanced Regression Techniques
+There are several factors that influence the price a buyer is willing to pay for a house. Some are apparent and obvious and some are not. Nevertheless, a rational approach facilitated by machine learning can be very useful in predicting the house price. A large data set with 79 different features (like living area, number of rooms, location etc) along with their prices are provided for residential homes in Ames, Iowa. The challenge is to learn a relationship between the important features and the price and use it to predict the prices of a new set of houses. 
 
-## 1. 팀소개
-### 1) 팀명 : 데르렁팀
- 
-### 2) 팀원 :  
-   >  김명학 : 그래프와 코닝튜닝 및 장소섭외     
- 
-   >  조아라 : 데이터 분석과 성능 및 간식담당 
- 
-   >  기성환 : 팀의 진행상황 보고 및 깃헙 관리  
+### Team Name : Data_Growl
+- Danny Ki [Team Leader]
+- Myeonghak Kim
+- Yara Cho 
 
+### Competition Description
+Our group plans to introduce Ordinary Least Squares model as a regression technique. In our demonstration we will explore how various attributes affect the price of houses. Graphic explanation would mainly be used with minimal mathematical notations.
 
-## 2. 데이터 소개
-### 2.1 목           표 : Test Data의  SalePrice (집값) 예측
+### Acknowledgments
+The Ames Housing dataset was compiled by Dean De Cock for use in data science education. It's an incredible alternative for data scientists looking for a modernized and expanded version of the often cited Boston Housing dataset
 
-### 2.2 데이터 :
-   > - 집값 예측 데이터는 미국 Ames. Iowa 지역의 데이터
+### File descriptions
+- train.csv : The training set
+- test.csv : The test set
+- data_description.txt : Full description of each column
+- sample_submission.csv : Sample submission file
 
-   > - Train Data : 1460개 집값 데이터와 집값이 포함된 81개의 변수로 구성
+### Evaluation Method
+Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price. 
 
-   > - Test Data  : 1459개 집값 데이터와 집값이 제외된 80개의 변수로 구성
+### Competition Timeline
+- Start Date: 8/30/2016 1:08 AM UTC
+- Merger Deadline: None
+- Entry Deadline: None
+- End Date: 3/1/2017 11:59 PM UTC
 
-   > - 총 Data : 2919개 집값 데이터
-   > - [데이터 출처 : House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques "House Prices: Advanced Regression Techniques")
-
-### 2.3 평기기준 
-   > - Root-Mean-Squared-Error (RMSE)  
-
-
-### 2.4 경연관련:
-   > - 시작 : 8/30/2016
-
-   > - 마감 : 3/01/2017
-
-   > - 참가팀 : 총 4469팀 (2018.3.13 기준)
-   
-   > - 일일 제출 제한 횟수 : 5 회 / 일
-  
-   > - **최종점수 : 0.12384   캐글 등수 : 1042 / 4548 (상위 22.9%)**
-  
-![Table1](/Image/table1.png )
-![Table2](/Image/table2.png )
-
+### Result
+- Model : Ordinary Least Squares regression
+- Kaggle Score : 0.12384
+- Kaggle rank : 1042 / 4548 (22.9%) [2018.3.13]
