@@ -13,13 +13,13 @@ Our group plans to introduce Ordinary Least Squares model as a regression techni
 The Ames Housing dataset was compiled by Dean De Cock for use in data science education. It's an incredible alternative for data scientists looking for a modernized and expanded version of the often cited Boston Housing dataset
 
 ### File descriptions
-- train.csv : the training set
-- test.csv : the test set
-- data_description.txt : full description of each column, originally prepared by Dean De Cock but lightly edited to match the column names used here
-- sample_submission.csv : a benchmark submission from a linear regression on year and month of sale, lot square footage, and number of bedrooms
+- train.csv : The training set
+- test.csv : The test set
+- data_description.txt : Full description of each column
+- sample_submission.csv : Sample submission file
 
 ### Evaluation Method
-Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price. (Taking logs means that errors in predicting expensive houses and cheap houses will affect the result equally.)
+Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price. 
 
 ### Competition Timeline
 - Start Date: 8/30/2016 1:08 AM UTC
