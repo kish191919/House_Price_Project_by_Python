@@ -1,10 +1,13 @@
-# Project : House Prices: Advanced Regression Techniques
-This is a perfect competition for data science students who have completed an online course in machine learning and are looking to expand their skill set before trying a featured competition. 
+# Team Project : House Prices: Advanced Regression Techniques
+There are several factors that influence the price a buyer is willing to pay for a house. Some are apparent and obvious and some are not. Nevertheless, a rational approach facilitated by machine learning can be very useful in predicting the house price. A large data set with 79 different features (like living area, number of rooms, location etc) along with their prices are provided for residential homes in Ames, Iowa. The challenge is to learn a relationship between the important features and the price and use it to predict the prices of a new set of houses. 
+
+### Team Name : Data_Growl
+- Danny Ki [Team Leader]
+- Myeonghak Kim
+- Yara Cho 
 
 ### Competition Description
-Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
-
-With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
+Our group plans to introduce Ordinary Least Squares model as a regression technique. In our demonstration we will explore how various attributes affect the price of houses. Graphic explanation would mainly be used with minimal mathematical notations.
 
 ### Acknowledgments
 The Ames Housing dataset was compiled by Dean De Cock for use in data science education. It's an incredible alternative for data scientists looking for a modernized and expanded version of the often cited Boston Housing dataset
