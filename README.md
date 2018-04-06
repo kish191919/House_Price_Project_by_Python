@@ -21,6 +21,8 @@ The Ames Housing dataset was compiled by Dean De Cock for use in data science ed
 ### Evaluation Method
 Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price. 
 
+RMSE = <img src="https://latex.codecogs.com/gif.latex?%5Csqrt%7B%5Cfrac%7B1%7D%7Bn%7D%5CSigma_%7Bi%3D1%7D%5E%7Bn%7D%7B%5CBig%28%5Cfrac%7Bd_i%20-f_i%7D%7B%5Csigma_i%7D%5CBig%29%5E2%7D%7D">
+
 ### Competition Timeline
 - Start Date: 8/30/2016 1:08 AM UTC
 - Merger Deadline: None
