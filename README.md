@@ -4,7 +4,7 @@ There are several factors that influence the price a buyer is willing to pay for
 ### Team Name : Data_Growl
 - Danny Ki [Team Leader]
 - Myeonghak Kim
-- Yara Cho 
+- Ara Cho 
 
 ### Competition Description
 Our group plans to introduce Ordinary Least Squares model as a regression technique. In our demonstration we will explore how various attributes affect the price of houses. Graphic explanation would mainly be used with minimal mathematical notations.
