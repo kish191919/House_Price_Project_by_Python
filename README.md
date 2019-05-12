@@ -32,4 +32,4 @@ RMSE = <img src="https://latex.codecogs.com/gif.latex?%5Csqrt%7B%5Cfrac%7B1%7D%7
 ### Prediction
 - Model : Ordinary Least Squares regression
 - Kaggle Score : 0.12384
-- Kaggle rank : 1042 / 4548 (22.9%) [2018.3.13]
+- Kaggle rank : 1042 / 4548 (22.9%) [ 2018.3.13 ]
