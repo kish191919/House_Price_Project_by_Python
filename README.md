@@ -23,13 +23,7 @@ Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarith
 
 RMSE = <img src="https://latex.codecogs.com/gif.latex?%5Csqrt%7B%5Cfrac%7B1%7D%7Bn%7D%5CSigma_%7Bi%3D1%7D%5E%7Bn%7D%7B%5CBig%28%5Cfrac%7Bd_i%20-f_i%7D%7B%5Csigma_i%7D%5CBig%29%5E2%7D%7D">
 
-### Competition Timeline
-- Start Date: 8/30/2016 1:08 AM UTC
-- Merger Deadline: None
-- Entry Deadline: None
-- End Date: 3/1/2017 11:59 PM UTC
-
 ### Prediction
 - Model : Ordinary Least Squares regression
 - Kaggle Score : 0.12384
-- Kaggle rank : 1042 / 4548 (22.9%) [ 2018.3.13 ]
+- Kaggle rank : 1042 / 4548 (22.9%)
